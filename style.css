@@ -1,0 +1,40 @@
+table, th, td { 
+  
+  border-collapse: collapse;  
+  text-align: center; 
+  
+}
+
+th {
+  width: 80px; 
+
+}
+#row1 {
+  color: chartreuse;
+}
+#Chartreuse{background-color: chartreuse;}
+#row2 {
+  color: greenyellow
+}
+#greenyellow{background-color: greenyellow;}
+
+#row3 {
+  color: lime
+}
+#lime{background-color: lime;}
+
+#row4 {
+  color: springgreen
+}
+#springgreen{background-color: springgreen;}
+
+#row5 {
+  color: yellowgreen
+}
+#yellowgreen{background-color: yellowgreen;}
+
+#row6 {
+  color: darkgreen
+}
+#DarkGreen{background-color: darkgreen;}
+
